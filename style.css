@@ -1,0 +1,28 @@
+body {
+    background: #f1f0f0;
+}
+h1 {
+    color: #24745a;
+
+}
+section {
+    background: #e8dab2;
+}
+article {
+    color: #24745a;
+}
+nav a {
+    color: #24745a;
+}
+a {
+    color: #1b9aaa;
+}
+.highline {
+    color: #f77f00;
+}
+#nevermindhigh {
+    color: #f77f00;
+}
+button {
+    color: red;
+}
