@@ -11,9 +11,6 @@ section {
 article {
     color: #24745a;
 }
-nav a {
-    color: #24745a;
-}
 a {
     color: #1b9aaa;
 }
@@ -22,7 +19,4 @@ a {
 }
 #nevermindhigh {
     color: #f77f00;
-}
-button {
-    color: red;
 }
