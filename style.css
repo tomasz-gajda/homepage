@@ -1,22 +1,33 @@
 body {
-    background: #f1f0f0;
+  background: #f1f0f0;
 }
 h1 {
-    color: #24745a;
+  color: #24745a;
+}
 
-}
-section {
-    background: #e8dab2;
-}
 article {
-    color: #24745a;
-}
-a {
-    color: #1b9aaa;
+  color: #24745a;
 }
 .highline {
-    color: #f77f00;
+  color: #f77f00;
 }
 #nevermindhigh {
-    color: #f77f00;
+  color: #f77f00;
+}
+
+.main {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.main-navigation {
+  background: rgba(0,48,73,0.5);
+  height: 20px;
+  padding: 10px;
+
+}
+
+.main-navigation__button {
+  color: #e4e4e4;
+  padding: 0 20px;
+  
 }
